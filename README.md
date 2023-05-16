@@ -1,3 +1,4 @@
+![](https://i.imgur.com/UEZJSm3.png)
 # AGS - Auto Game Stream (v3.2)
 Deobfuscated client-side script from Game Soft Now.
 
