@@ -1,0 +1,62 @@
+{
+	"info": {
+		"id": 0,
+		"prefix": "0"
+	},
+	"coordinates": {
+		"parsec": {
+			"Share": {
+				"X": 1492,
+				"Y": 761
+			},
+			"StopSharing": {
+				"X": 596,
+				"Y": 533
+			},
+			"Reload": {
+				"X": 1592,
+				"Y": 232
+			},
+			"Guests": {
+				"X": 163,
+				"Y": 1004
+			},
+			"Accept": {
+				"X": 182,
+				"Y": 931
+			},
+			"Kick": {
+				"X": 183,
+				"Y": 960
+			},
+			"Mouse": {
+				"X": 200,
+				"Y": 932
+			},
+			"Keyboard": {
+				"X": 199,
+				"Y": 901
+			}
+		},
+		"stream": {
+			"App": {
+				"X": 24,
+				"Y": 1057
+			}
+		}
+	},
+	"patch": {
+		"Parsec": "C:\\Program Files\\Parsec\\parsecd.exe"
+	},
+	"stream": {
+		"UserID": 0,
+		"UserTime": 0,
+		"WorkName": "",
+		"StepNow": 0,
+		"StepMax": 0,
+		"TimeToNext": 0,
+		"TimeToKick": 0,
+		"KeyAcc": ""
+	},
+	"alias": []
+}
