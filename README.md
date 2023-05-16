@@ -7,4 +7,3 @@ Deobfuscated client-side script from Game Soft Now.
 
 ## Installation 
 - Download this repository and run the bot by `start.bat`.
-- Done!
